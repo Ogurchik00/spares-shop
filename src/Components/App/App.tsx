@@ -1,11 +1,12 @@
 import React from 'react';
-import './App.css';
 
-function App() {  
+import './App.scss';
+
+const App = () => {  
 
   return (
     <div className="App">
-      
+      ff
     </div>
   );
 }
